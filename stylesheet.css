@@ -27,6 +27,11 @@ body {
     padding: 100px 80px;
   }
   
+
+  a {
+    font-size: 91px;
+  }
+
   .copy-container h1 {
     font-size: 140px;
       color: #2f5167;
@@ -98,6 +103,7 @@ body {
   .footer-logo {
     float: left;
     font-size: 32px;
+    
   }
   
   .footer-list {
